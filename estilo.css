@@ -1,0 +1,72 @@
+body {
+    background: rgb(255, 95, 2);
+    font: normal 15pt Arial;
+    font-weight: bold;
+    text-align: center;
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-shadow:  5px 5px 10px rgb(0, 0, 0);
+}
+
+section {
+    background: rgb(241, 152, 80);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    color: white;
+    text-shadow:  5px 5px 10px rgb(0, 0, 0);
+}
+
+#txti {
+    width: 100pt;
+    text-align: right;
+    font-size: 15pt;
+    border-radius: 5pt;
+    font-weight: bold;
+}
+
+#txtf {
+    width: 100pt;
+    text-align: right;
+    font-size: 15pt;
+    border-radius: 5pt;
+    font-weight: bold;
+}
+
+#txtp {
+    width: 100pt;
+    text-align: right;
+    font-size: 15pt;
+    border-radius: 5pt;
+    font-weight: bold;
+}
+
+#cont { 
+    font-size: 15pt;
+    width: 100pt;
+    height: 25pt;
+    border-radius: 20pt;
+    background: rgb(255, 95, 2);
+    color: white;
+    font-weight: bold;
+}
+
+#cont:hover {
+    background: rgb(51, 252, 1);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    text-shadow:  5px 5px 10px rgb(0, 0, 0);
+}
+
+* {
+    box-sizing: border-box;
+}
